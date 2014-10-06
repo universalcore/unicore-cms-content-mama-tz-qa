@@ -5,7 +5,7 @@
         "title": "Test category", 
         "slug": "test-category", 
         "source": null, 
-        "featured_in_navbar": true, 
+        "featured_in_navbar": false, 
         "id": "e231c2c9691e4e9f98139f8a7a6f2e76"
     }, 
     "model": "GitCategoryModel"
