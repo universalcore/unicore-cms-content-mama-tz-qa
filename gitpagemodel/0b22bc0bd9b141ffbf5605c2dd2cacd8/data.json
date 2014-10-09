@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "test", 
+        "language": "", 
+        "title": "pind", 
+        "primary_category": null, 
+        "created_at": "2014-10-09T07:57:08.859598+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-09T07:57:08.859872+00:00", 
+        "linked_pages": [], 
+        "slug": "pind", 
+        "content": "teste", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "0b22bc0bd9b141ffbf5605c2dd2cacd8"
+    }, 
+    "model": "GitPageModel"
+}
