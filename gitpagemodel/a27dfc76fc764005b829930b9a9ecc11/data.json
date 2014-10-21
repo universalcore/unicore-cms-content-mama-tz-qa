@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "swh_TZ", 
+        "title": "KUHUSU", 
+        "primary_category": null, 
+        "created_at": "2014-10-21T10:20:59.202210+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-21T10:20:59.202362+00:00", 
+        "linked_pages": [], 
+        "slug": "about", 
+        "content": "kulisha mtoto mchanga", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "a27dfc76fc764005b829930b9a9ecc11"
+    }, 
+    "model": "GitPageModel"
+}
