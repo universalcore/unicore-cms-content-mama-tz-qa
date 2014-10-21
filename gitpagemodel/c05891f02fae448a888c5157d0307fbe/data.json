@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "swh_TZ", 
+        "title": "MAWASILIANO", 
+        "primary_category": null, 
+        "created_at": "2014-10-21T10:27:29.773166+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-21T10:27:29.773370+00:00", 
+        "linked_pages": [], 
+        "slug": "contact", 
+        "content": "Unapoweza kupata habari kuhusu MAMA.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "c05891f02fae448a888c5157d0307fbe"
+    }, 
+    "model": "GitPageModel"
+}
