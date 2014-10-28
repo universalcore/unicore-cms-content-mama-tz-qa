@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "c65d9b23929944ed9d2fd86c338b4b95", 
+  "language": "eng_UK", 
+  "title": "Test category", 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "test-category", 
+  "source": null, 
+  "position": 0, 
+  "featured_in_navbar": true, 
+  "id": "c65d9b23929944ed9d2fd86c338b4b95"
+}
