@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "ff60c25667a1480fb91fd4b66f9375aa", 
+  "language": "eng_UK", 
+  "title": "MAMA to MAMA", 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "mama-mama", 
+  "source": null, 
+  "position": 3, 
+  "featured_in_navbar": true, 
+  "id": "ff60c25667a1480fb91fd4b66f9375aa"
+}
