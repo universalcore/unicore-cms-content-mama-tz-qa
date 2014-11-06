@@ -6,8 +6,8 @@
   "_version": {
     "package_version": "0.2.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "mama-to-mama", 
