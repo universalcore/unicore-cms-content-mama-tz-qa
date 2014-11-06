@@ -6,12 +6,12 @@
   "primary_category": "ff60c25667a1480fb91fd4b66f9375aa", 
   "created_at": "2014-10-06T14:20:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-23T10:41:11.577363+00:00", 
+  "modified_at": "2014-11-06T16:55:42.625133+00:00", 
   "_version": {
     "package_version": "0.2.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,6 +23,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 14, 
   "slug": "newdad-cry-baby-cry", 
   "uuid": "a3f5b56a2e0a41bba0f2c875f677211e"
 }
