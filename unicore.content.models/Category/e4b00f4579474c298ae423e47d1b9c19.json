@@ -1,0 +1,20 @@
+{
+  "subtitle": "utunzaji wa watoto wachanga", 
+  "uuid": "e4b00f4579474c298ae423e47d1b9c19", 
+  "language": "swa_TZ", 
+  "title": "MTOTO", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "baby", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": "e4b00f4579474c298ae423e47d1b9c19"
+}

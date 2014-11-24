@@ -1,0 +1,31 @@
+{
+  "subtitle": "A whole new world for your baby", 
+  "description": "A whole new world for your baby", 
+  "language": "eng_GB", 
+  "title": "Your New Baby", 
+  "primary_category": "ffbb254b17e442bea143b7b4d0ba6009", 
+  "created_at": "2014-10-06T19:44:21+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-20T08:18:42.179119+00:00", 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a3f5b56a2e0a41bba0f2c875f677211e", 
+    "4c2ffd3978f245f6ab457ab5c3cf7e65"
+  ], 
+  "id": "2ab3db035df842ceb1fa3cffb1ba9548", 
+  "content": "Your newborn is new to this big, noisy world! You can see he moves in a jerky way as he gets used to it. Soon, his movements will be smoother. \r\n\r\nYou may worry your baby isn't getting enough milk. If your baby is feeding every 2 to 3 hours, or at least 8 times a day, then that is enough. The colour of your baby's stools is a good way to check. They are black at first and turn yellow by day 4.\r\n\r\nAt about 2 weeks, your baby is sucking, grasping, blinking and rooting for your nipple. Sometimes he will look straight into your eyes. It is good to respond by looking back and smiling and nodding.  He is learning fast!\r\n\r\nWatch for your baby trying to lift his head when he's lying on his belly. This is a way for him to get stronger. He might turn his head from side to side. \t\r\n\r\nAs he approaches 1 month old, your baby begins to lose his newborn quiver and jumpiness.  He is growing stronger every day and learning about the world around him. He might stare at you now.\r\n\r\nOne exciting change is he's beginning to make baby noises. This is his way of talking to you! Try to make baby noises back. Keep talking even when you put him down and move away. ", 
+  "source": null, 
+  "featured": true, 
+  "image": null, 
+  "published": true, 
+  "position": 12, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "your-new-baby", 
+  "uuid": "2ab3db035df842ceb1fa3cffb1ba9548"
+}

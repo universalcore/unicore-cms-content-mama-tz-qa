@@ -1,0 +1,20 @@
+{
+  "subtitle": "chaguo la mwisho la hadithi", 
+  "uuid": "ba073f6475b74fcb916f5d022705a243", 
+  "language": "swa_TZ", 
+  "title": "MAMA kwa MAMA", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "mama-to-mama", 
+  "source": null, 
+  "position": 2, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": "ba073f6475b74fcb916f5d022705a243"
+}

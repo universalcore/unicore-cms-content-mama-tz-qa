@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Pregnancy", 
+        "slug": "pregnancy", 
+        "source": null, 
+        "position": 1, 
+        "featured_in_navbar": true, 
+        "id": "4ad3f38574af4fcc9e8e99ec2a16b413"
+    }, 
+    "model": "GitCategoryModel"
+}

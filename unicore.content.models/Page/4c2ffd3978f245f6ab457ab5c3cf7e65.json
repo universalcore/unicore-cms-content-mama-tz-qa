@@ -1,0 +1,30 @@
+{
+  "subtitle": "", 
+  "description": "Jinsi ya kuwatunza watoto wa changa.", 
+  "language": "swa_TZ", 
+  "title": "UTUNZAJI ", 
+  "primary_category": "e4b00f4579474c298ae423e47d1b9c19", 
+  "created_at": "2014-10-21T10:04:08+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-20T08:18:33.688300+00:00", 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "2ab3db035df842ceb1fa3cffb1ba9548"
+  ], 
+  "id": "4c2ffd3978f245f6ab457ab5c3cf7e65", 
+  "content": "Mbinu za kimsingi za kuwatunza watoto wachanga wasiozaliwa kwenye kituo cha afya.", 
+  "source": null, 
+  "featured": true, 
+  "image": null, 
+  "published": true, 
+  "position": 3, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "utunzaji", 
+  "uuid": "4c2ffd3978f245f6ab457ab5c3cf7e65"
+}

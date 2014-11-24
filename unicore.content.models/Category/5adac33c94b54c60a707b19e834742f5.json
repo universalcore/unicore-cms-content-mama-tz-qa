@@ -1,0 +1,20 @@
+{
+  "subtitle": "matatizo katika ujauzito", 
+  "uuid": "5adac33c94b54c60a707b19e834742f5", 
+  "language": "swa_TZ", 
+  "title": "UJAUZITO", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "pregnancy", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": "5adac33c94b54c60a707b19e834742f5"
+}

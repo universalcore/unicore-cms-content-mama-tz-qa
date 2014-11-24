@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Baby", 
+        "slug": "baby", 
+        "source": null, 
+        "position": 2, 
+        "featured_in_navbar": true, 
+        "id": "ffbb254b17e442bea143b7b4d0ba6009"
+    }, 
+    "model": "GitCategoryModel"
+}

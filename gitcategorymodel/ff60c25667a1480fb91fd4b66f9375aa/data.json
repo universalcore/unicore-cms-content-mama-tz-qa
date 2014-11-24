@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "MAMA to MAMA", 
+        "slug": "mama-mama", 
+        "source": null, 
+        "position": 3, 
+        "featured_in_navbar": true, 
+        "id": "ff60c25667a1480fb91fd4b66f9375aa"
+    }, 
+    "model": "GitCategoryModel"
+}

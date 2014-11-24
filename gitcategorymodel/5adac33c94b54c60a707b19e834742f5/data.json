@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "matatizo katika ujauzito", 
+        "language": "swh_TZ", 
+        "title": "UJAUZITO", 
+        "slug": "ujauzito", 
+        "source": null, 
+        "position": 0, 
+        "featured_in_navbar": true, 
+        "id": "5adac33c94b54c60a707b19e834742f5"
+    }, 
+    "model": "GitCategoryModel"
+}
