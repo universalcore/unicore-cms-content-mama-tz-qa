@@ -1,5 +1,5 @@
 {
-  "subtitle": "\u0627\u06af\u0631 \u0622\u067e \u0628\u06cc\u0645\u0627\u0631 \u06c1\u06cc\u06ba \u062a\u0648 \u06a9\u06cc\u0627 \u06a9\u0631\u0646\u0627 \u06c1\u06d2", 
+  "subtitle": "", 
   "uuid": "1117f343018e46a2b2ec6a310fd98efb", 
   "language": "urd_PK", 
   "title": "\u0628\u06cc\u0645\u0627\u0631\u06cc", 
@@ -7,8 +7,8 @@
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "bmr", 
