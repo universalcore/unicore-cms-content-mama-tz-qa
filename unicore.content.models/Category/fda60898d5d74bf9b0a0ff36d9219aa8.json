@@ -1,5 +1,5 @@
 {
-  "subtitle": "\u0686\u06be\u0648\u0679\u06cc \u0645\u062e\u0644\u0648\u0642 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0645\u0639\u0644\u0648\u0645\u0627\u062a", 
+  "subtitle": "", 
   "uuid": "fda60898d5d74bf9b0a0ff36d9219aa8", 
   "language": "urd_PK", 
   "title": "\u0628\u0686\u0648\u06ba \u06a9\u0648", 
@@ -7,8 +7,8 @@
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "bo-o", 
