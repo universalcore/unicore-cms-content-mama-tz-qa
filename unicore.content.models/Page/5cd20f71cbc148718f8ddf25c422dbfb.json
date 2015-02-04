@@ -6,12 +6,12 @@
   "primary_category": "1117f343018e46a2b2ec6a310fd98efb", 
   "created_at": "2015-02-04T14:54:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-04T14:55:24.166008+00:00", 
+  "modified_at": "2015-02-04T15:01:40.546043+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
