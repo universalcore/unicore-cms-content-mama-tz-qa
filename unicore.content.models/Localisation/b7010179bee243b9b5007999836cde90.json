@@ -2,14 +2,14 @@
   "uuid": "b7010179bee243b9b5007999836cde90", 
   "logo_image_host": "http://qa.thumbor.unicore.io", 
   "locale": "eng_UK", 
-  "image": null, 
+  "image": "0c963ef35f6b48ce99866a23fd638c21", 
   "logo_text": "tsepo", 
   "logo_image": null, 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
