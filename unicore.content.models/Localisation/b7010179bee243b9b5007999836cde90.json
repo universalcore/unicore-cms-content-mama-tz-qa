@@ -4,12 +4,12 @@
   "locale": "eng_UK", 
   "image": "0c963ef35f6b48ce99866a23fd638c21", 
   "logo_text": "tsepo", 
-  "logo_image": null, 
+  "logo_image": "ed15274db7b4407980d568c851dd8864", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
